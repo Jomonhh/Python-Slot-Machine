@@ -6,6 +6,6 @@
 To get started with this project, run this in your command prompt/Terminal 
 
 ```bash
-  git clone https://github.com/Jomonhh/Python-Slot-Machine.git
+  git clone https://github.com/Jomonh/Python-Slot-Machine.git
 ```
 and that's all you need to get started!
